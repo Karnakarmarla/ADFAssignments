@@ -1,3 +1,4 @@
+#7.	Program to get an application (name , age , gender, salary, state, city).
 try:
     x = list(map(str, input("Enter name , age , gender, salary, state, city values: ").split()))
     print("name:"+x[0])
