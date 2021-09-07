@@ -1,0 +1,103 @@
+2021-09-07 16:22:30,121:__main__:Number of words have prefix to are :3
+2021-09-07 16:22:30,121:__main__:Number of words have suffix ing are :3
+2021-09-07 16:22:30,121:__main__:Maximum repeated word is :of
+2021-09-07 16:22:30,121:__main__:resultant dictionary is :{1: 'challenges', 2: 'molding', 3: 'Education', 4: 'imparts', 5: 'between', 6: 'process', 7: 'ethics', 8: 'upon', 9: 'Education.', 10: 'and', 11: 'on', 12: 'creatures,', 13: 'quality', 14: 'efficiently.', 15: 'essential', 16: 'making', 17: 'empowers', 18: 'role', 19: 'plays', 20: 'knowledge', 21: 'line', 22: 'significant', 23: 'the', 24: 'culture', 25: 'comprises', 26: 'in', 27: 'steps', 28: 'other', 29: 'society.', 30: 'Earth.', 31: 'that', 32: 'forms', 33: 'life', 34: 'life.', 35: 'more', 36: 'an', 37: 'face', 38: 'animal', 39: 'readies', 40: 'depending', 41: 'a', 42: 'separation', 43: 'man', 44: 'improve', 45: 'is', 46: 'various', 47: 'key', 48: 'of', 49: 'It', 50: 'tool', 51: 'us', 52: 'The', 53: 'distinct', 54: 'smartest', 55: 'to', 56: 'one’s'}
+2021-09-07 16:24:19,259:__main__:Number of words have prefix to are :3
+2021-09-07 16:24:19,259:__main__:Number of words have suffix ing are :3
+2021-09-07 16:24:19,259:__main__:Maximum repeated word is :of
+2021-09-07 16:24:19,259:__main__:Palindromes are:
+2021-09-07 16:24:19,259:__main__:a 
+2021-09-07 16:24:19,259:__main__:a 
+2021-09-07 16:24:19,259:__main__:a 
+2021-09-07 16:24:19,259:__main__:['on', 'The', 'improve', 'upon', 'animal', 'imparts', 'comprises', 'life.', 'separation', 'smartest', 'Education', 'challenges', 'molding', 'distinct', 'steps', 'various', 'life', 'efficiently.', 'a', 'is', 'process', 'making', 'that', 'plays', 'It', 'tool', 'quality', 'line', 'face', 'forms', 'an', 'other', 'essential', 'depending', 'more', 'us', 'society.', 'role', 'between', 'key', 'Education.', 'and', 'man', 'ethics', 'to', 'one’s', 'readies', 'creatures,', 'knowledge', 'significant', 'Earth.', 'in', 'the', 'of', 'culture', 'empowers']
+2021-09-07 16:24:19,259:__main__:resultant dictionary is :{1: 'on', 2: 'The', 3: 'improve', 4: 'upon', 5: 'animal', 6: 'imparts', 7: 'comprises', 8: 'life.', 9: 'separation', 10: 'smartest', 11: 'Education', 12: 'challenges', 13: 'molding', 14: 'distinct', 15: 'steps', 16: 'various', 17: 'life', 18: 'efficiently.', 19: 'a', 20: 'is', 21: 'process', 22: 'making', 23: 'that', 24: 'plays', 25: 'It', 26: 'tool', 27: 'quality', 28: 'line', 29: 'face', 30: 'forms', 31: 'an', 32: 'other', 33: 'essential', 34: 'depending', 35: 'more', 36: 'us', 37: 'society.', 38: 'role', 39: 'between', 40: 'key', 41: 'Education.', 42: 'and', 43: 'man', 44: 'ethics', 45: 'to', 46: 'one’s', 47: 'readies', 48: 'creatures,', 49: 'knowledge', 50: 'significant', 51: 'Earth.', 52: 'in', 53: 'the', 54: 'of', 55: 'culture', 56: 'empowers'}
+2021-09-07 16:24:37,482:__main__:example.txt
+2021-09-07 16:24:37,482:__main__:Number of words have prefix to are :3
+2021-09-07 16:24:37,482:__main__:Number of words have suffix ing are :3
+2021-09-07 16:24:37,482:__main__:Maximum repeated word is :of
+2021-09-07 16:24:37,482:__main__:Palindromes are:
+2021-09-07 16:24:37,482:__main__:a 
+2021-09-07 16:24:37,482:__main__:a 
+2021-09-07 16:24:37,482:__main__:a 
+2021-09-07 16:24:37,482:__main__:['various', 'animal', 'quality', 'culture', 'an', 'of', 'ethics', 'face', 'upon', 'Education', 'tool', 'forms', 'a', 'creatures,', 'It', 'other', 'the', 'steps', 'making', 'depending', 'The', 'molding', 'Earth.', 'readies', 'improve', 'empowers', 'us', 'line', 'one’s', 'key', 'in', 'efficiently.', 'Education.', 'significant', 'distinct', 'comprises', 'process', 'plays', 'to', 'knowledge', 'more', 'smartest', 'life.', 'challenges', 'separation', 'is', 'role', 'that', 'essential', 'between', 'on', 'society.', 'life', 'imparts', 'man', 'and']
+2021-09-07 16:24:37,482:__main__:resultant dictionary is :{1: 'various', 2: 'animal', 3: 'quality', 4: 'culture', 5: 'an', 6: 'of', 7: 'ethics', 8: 'face', 9: 'upon', 10: 'Education', 11: 'tool', 12: 'forms', 13: 'a', 14: 'creatures,', 15: 'It', 16: 'other', 17: 'the', 18: 'steps', 19: 'making', 20: 'depending', 21: 'The', 22: 'molding', 23: 'Earth.', 24: 'readies', 25: 'improve', 26: 'empowers', 27: 'us', 28: 'line', 29: 'one’s', 30: 'key', 31: 'in', 32: 'efficiently.', 33: 'Education.', 34: 'significant', 35: 'distinct', 36: 'comprises', 37: 'process', 38: 'plays', 39: 'to', 40: 'knowledge', 41: 'more', 42: 'smartest', 43: 'life.', 44: 'challenges', 45: 'separation', 46: 'is', 47: 'role', 48: 'that', 49: 'essential', 50: 'between', 51: 'on', 52: 'society.', 53: 'life', 54: 'imparts', 55: 'man', 56: 'and'}
+2021-09-07 16:28:18,216:DEBUG:__main__:example.txt
+2021-09-07 16:28:18,216:DEBUG:__main__:Number of words have prefix to are :3
+2021-09-07 16:28:18,216:DEBUG:__main__:Number of words have suffix ing are :3
+2021-09-07 16:28:18,216:DEBUG:__main__:Maximum repeated word is :of
+2021-09-07 16:28:18,216:DEBUG:__main__:Palindromes are:
+2021-09-07 16:28:18,216:DEBUG:__main__:a 
+2021-09-07 16:28:18,216:DEBUG:__main__:a 
+2021-09-07 16:28:18,216:DEBUG:__main__:a 
+2021-09-07 16:28:18,216:DEBUG:__main__:['various', 'plays', 'improve', 'more', 'steps', 'is', 'essential', 'man', 'tool', 'It', 'imparts', 'an', 'of', 'distinct', 'animal', 'upon', 'smartest', 'other', 'efficiently.', 'quality', 'Education', 'Earth.', 'Education.', 'a', 'depending', 'role', 'comprises', 'significant', 'and', 'culture', 'life', 'readies', 'The', 'between', 'that', 'creatures,', 'challenges', 'the', 'society.', 'forms', 'separation', 'one’s', 'us', 'knowledge', 'empowers', 'life.', 'ethics', 'face', 'line', 'molding', 'in', 'key', 'on', 'to', 'making', 'process']
+2021-09-07 16:28:18,216:DEBUG:__main__:resultant dictionary is :{1: 'various', 2: 'plays', 3: 'improve', 4: 'more', 5: 'steps', 6: 'is', 7: 'essential', 8: 'man', 9: 'tool', 10: 'It', 11: 'imparts', 12: 'an', 13: 'of', 14: 'distinct', 15: 'animal', 16: 'upon', 17: 'smartest', 18: 'other', 19: 'efficiently.', 20: 'quality', 21: 'Education', 22: 'Earth.', 23: 'Education.', 24: 'a', 25: 'depending', 26: 'role', 27: 'comprises', 28: 'significant', 29: 'and', 30: 'culture', 31: 'life', 32: 'readies', 33: 'The', 34: 'between', 35: 'that', 36: 'creatures,', 37: 'challenges', 38: 'the', 39: 'society.', 40: 'forms', 41: 'separation', 42: 'one’s', 43: 'us', 44: 'knowledge', 45: 'empowers', 46: 'life.', 47: 'ethics', 48: 'face', 49: 'line', 50: 'molding', 51: 'in', 52: 'key', 53: 'on', 54: 'to', 55: 'making', 56: 'process'}
+2021-09-07 16:30:28,360:DEBUG:__main__:example.txt
+2021-09-07 16:30:28,360:DEBUG:__main__:Number of words have prefix to are :3
+2021-09-07 16:30:28,360:DEBUG:__main__:Number of words have suffix ing are :3
+2021-09-07 16:30:28,360:DEBUG:__main__:Maximum repeated word is :of
+2021-09-07 16:30:28,360:DEBUG:__main__:Palindromes are:
+2021-09-07 16:30:28,360:DEBUG:__main__:a 
+2021-09-07 16:30:28,360:DEBUG:__main__:a 
+2021-09-07 16:30:28,360:DEBUG:__main__:a 
+2021-09-07 16:30:28,360:DEBUG:__main__:['life.', 'efficiently.', 'imparts', 'that', 'man', 'Earth.', 'The', 'on', 'empowers', 'one’s', 'separation', 'depending', 'Education', 'knowledge', 'in', 'the', 'ethics', 'and', 'plays', 'line', 'challenges', 'essential', 'making', 'process', 'face', 'of', 'an', 'significant', 'steps', 'is', 'culture', 'us', 'smartest', 'a', 'role', 'between', 'animal', 'society.', 'life', 'key', 'various', 'Education.', 'molding', 'distinct', 'more', 'tool', 'comprises', 'forms', 'other', 'improve', 'It', 'upon', 'quality', 'to', 'readies', 'creatures,']
+2021-09-07 16:30:28,360:DEBUG:__main__:resultant dictionary is :{1: 'life.', 2: 'efficiently.', 3: 'imparts', 4: 'that', 5: 'man', 6: 'Earth.', 7: 'The', 8: 'on', 9: 'empowers', 10: 'one’s', 11: 'separation', 12: 'depending', 13: 'Education', 14: 'knowledge', 15: 'in', 16: 'the', 17: 'ethics', 18: 'and', 19: 'plays', 20: 'line', 21: 'challenges', 22: 'essential', 23: 'making', 24: 'process', 25: 'face', 26: 'of', 27: 'an', 28: 'significant', 29: 'steps', 30: 'is', 31: 'culture', 32: 'us', 33: 'smartest', 34: 'a', 35: 'role', 36: 'between', 37: 'animal', 38: 'society.', 39: 'life', 40: 'key', 41: 'various', 42: 'Education.', 43: 'molding', 44: 'distinct', 45: 'more', 46: 'tool', 47: 'comprises', 48: 'forms', 49: 'other', 50: 'improve', 51: 'It', 52: 'upon', 53: 'quality', 54: 'to', 55: 'readies', 56: 'creatures,'}
+2021-09-07 17:46:39,595:DEBUG:__main__:example.txt
+2021-09-07 17:46:39,596:DEBUG:__main__:Number of words have prefix to are :3
+2021-09-07 17:46:39,596:DEBUG:__main__:Number of words have suffix ing are :3
+2021-09-07 17:46:39,596:DEBUG:__main__:Maximum repeated word is :of
+2021-09-07 17:46:39,596:DEBUG:__main__:Palindromes are:
+2021-09-07 17:46:39,596:DEBUG:__main__:a 
+2021-09-07 17:46:39,596:DEBUG:__main__:a 
+2021-09-07 17:46:39,596:DEBUG:__main__:a 
+2021-09-07 17:46:39,596:DEBUG:__main__:['making', 'the', 'distinct', 'man', 'molding', 'Earth.', 'challenges', 'an', 'upon', 'more', 'improve', 'essential', 'significant', 'line', 'readies', 'between', 'ethics', 'comprises', 'society.', 'steps', 'It', 'depending', 'imparts', 'role', 'forms', 'other', 'face', 'creatures,', 'in', 'that', 'key', 'and', 'is', 'The', 'of', 'life.', 'life', 'quality', 'process', 'tool', 'to', 'culture', 'on', 'smartest', 'us', 'Education', 'plays', 'separation', 'empowers', 'efficiently.', 'one’s', 'a', 'Education.', 'various', 'knowledge', 'animal']
+2021-09-07 17:46:39,596:DEBUG:__main__:resultant dictionary is :{1: 'making', 2: 'the', 3: 'distinct', 4: 'man', 5: 'molding', 6: 'Earth.', 7: 'challenges', 8: 'an', 9: 'upon', 10: 'more', 11: 'improve', 12: 'essential', 13: 'significant', 14: 'line', 15: 'readies', 16: 'between', 17: 'ethics', 18: 'comprises', 19: 'society.', 20: 'steps', 21: 'It', 22: 'depending', 23: 'imparts', 24: 'role', 25: 'forms', 26: 'other', 27: 'face', 28: 'creatures,', 29: 'in', 30: 'that', 31: 'key', 32: 'and', 33: 'is', 34: 'The', 35: 'of', 36: 'life.', 37: 'life', 38: 'quality', 39: 'process', 40: 'tool', 41: 'to', 42: 'culture', 43: 'on', 44: 'smartest', 45: 'us', 46: 'Education', 47: 'plays', 48: 'separation', 49: 'empowers', 50: 'efficiently.', 51: 'one’s', 52: 'a', 53: 'Education.', 54: 'various', 55: 'knowledge', 56: 'animal'}
+2021-09-07 20:40:42,115:INFO:__main__:example.txt
+2021-09-07 20:40:42,115:INFO:__main__:Number of words have prefix to are :3
+2021-09-07 20:40:42,115:INFO:__main__:Number of words have suffix ing are :3
+2021-09-07 20:40:42,115:INFO:__main__:Maximum repeated word is :of
+2021-09-07 20:40:42,115:INFO:__main__:Palindromes are:
+2021-09-07 20:40:42,115:INFO:__main__:a 
+2021-09-07 20:40:42,115:INFO:__main__:a 
+2021-09-07 20:40:42,115:INFO:__main__:a 
+2021-09-07 20:40:42,115:INFO:__main__:['an', 'of', 'life', 'society.', 'ethics', 'tool', 'between', 'that', 'and', 'making', 'one’s', 'Education', 'on', 'efficiently.', 'quality', 'smartest', 'is', 'various', 'us', 'creatures,', 'comprises', 'upon', 'It', 'improve', 'significant', 'essential', 'key', 'molding', 'more', 'process', 'line', 'empowers', 'challenges', 'steps', 'The', 'animal', 'readies', 'Education.', 'forms', 'imparts', 'plays', 'depending', 'in', 'man', 'the', 'distinct', 'other', 'face', 'Earth.', 'culture', 'knowledge', 'life.', 'role', 'a', 'separation', 'to']
+2021-09-07 20:40:42,115:INFO:__main__:resultant dictionary is :{1: 'an', 2: 'of', 3: 'life', 4: 'society.', 5: 'ethics', 6: 'tool', 7: 'between', 8: 'that', 9: 'and', 10: 'making', 11: 'one’s', 12: 'Education', 13: 'on', 14: 'efficiently.', 15: 'quality', 16: 'smartest', 17: 'is', 18: 'various', 19: 'us', 20: 'creatures,', 21: 'comprises', 22: 'upon', 23: 'It', 24: 'improve', 25: 'significant', 26: 'essential', 27: 'key', 28: 'molding', 29: 'more', 30: 'process', 31: 'line', 32: 'empowers', 33: 'challenges', 34: 'steps', 35: 'The', 36: 'animal', 37: 'readies', 38: 'Education.', 39: 'forms', 40: 'imparts', 41: 'plays', 42: 'depending', 43: 'in', 44: 'man', 45: 'the', 46: 'distinct', 47: 'other', 48: 'face', 49: 'Earth.', 50: 'culture', 51: 'knowledge', 52: 'life.', 53: 'role', 54: 'a', 55: 'separation', 56: 'to'}
+2021-09-07 20:41:39,321:INFO:__main__:example.txt
+2021-09-07 20:41:39,321:INFO:__main__:Number of words have prefix to are :3
+2021-09-07 20:41:39,321:INFO:__main__:Number of words have suffix ing are :3
+2021-09-07 20:41:39,321:INFO:__main__:Maximum repeated word is :of
+2021-09-07 20:41:39,321:INFO:__main__:Palindromes are:
+2021-09-07 20:41:39,321:INFO:__main__:a 
+2021-09-07 20:41:39,321:INFO:__main__:a 
+2021-09-07 20:41:39,321:INFO:__main__:a 
+2021-09-07 20:41:39,321:INFO:__main__:['Education', 'tool', 'quality', 'Earth.', 'creatures,', 'separation', 'that', 'line', 'between', 'plays', 'the', 'challenges', 'animal', 'depending', 'essential', 'role', 'making', 'of', 'us', 'comprises', 'efficiently.', 'and', 'on', 'imparts', 'culture', 'knowledge', 'key', 'in', 'upon', 'a', 'It', 'society.', 'Education.', 'life.', 'process', 'an', 'molding', 'other', 'face', 'empowers', 'to', 'ethics', 'smartest', 'improve', 'distinct', 'readies', 'forms', 'is', 'life', 'more', 'various', 'steps', 'The', 'significant', 'one’s', 'man']
+2021-09-07 20:41:39,321:INFO:__main__:resultant dictionary is :{1: 'Education', 2: 'tool', 3: 'quality', 4: 'Earth.', 5: 'creatures,', 6: 'separation', 7: 'that', 8: 'line', 9: 'between', 10: 'plays', 11: 'the', 12: 'challenges', 13: 'animal', 14: 'depending', 15: 'essential', 16: 'role', 17: 'making', 18: 'of', 19: 'us', 20: 'comprises', 21: 'efficiently.', 22: 'and', 23: 'on', 24: 'imparts', 25: 'culture', 26: 'knowledge', 27: 'key', 28: 'in', 29: 'upon', 30: 'a', 31: 'It', 32: 'society.', 33: 'Education.', 34: 'life.', 35: 'process', 36: 'an', 37: 'molding', 38: 'other', 39: 'face', 40: 'empowers', 41: 'to', 42: 'ethics', 43: 'smartest', 44: 'improve', 45: 'distinct', 46: 'readies', 47: 'forms', 48: 'is', 49: 'life', 50: 'more', 51: 'various', 52: 'steps', 53: 'The', 54: 'significant', 55: 'one’s', 56: 'man'}
+2021-09-07 20:47:20,078:INFO:__main__:example.txt
+2021-09-07 20:47:20,078:INFO:__main__:Number of words have prefix to are :3
+2021-09-07 20:47:20,078:INFO:__main__:Number of words have suffix ing are :3
+2021-09-07 20:47:20,078:INFO:__main__:Maximum repeated word is :of
+2021-09-07 20:47:20,078:INFO:__main__:Palindromes are:
+2021-09-07 20:47:20,078:INFO:__main__:a 
+2021-09-07 20:47:20,078:INFO:__main__:a 
+2021-09-07 20:47:20,078:INFO:__main__:a 
+2021-09-07 20:47:20,078:INFO:__main__:['improve', 'society.', 'imparts', 'more', 'the', 'in', 'ethics', 'an', 'quality', 'man', 'that', 'between', 'other', 'animal', 'on', 'tool', 'knowledge', 'depending', 'and', 'Earth.', 'upon', 'line', 'separation', 'face', 'Education.', 'distinct', 'steps', 'is', 'molding', 'smartest', 'one’s', 'forms', 'comprises', 'creatures,', 'challenges', 'process', 'various', 'role', 'key', 'It', 'readies', 'life.', 'The', 'efficiently.', 'essential', 'life', 'us', 'making', 'culture', 'to', 'of', 'empowers', 'significant', 'Education', 'a', 'plays']
+2021-09-07 20:47:20,078:INFO:__main__:resultant dictionary is :{1: 'improve', 2: 'society.', 3: 'imparts', 4: 'more', 5: 'the', 6: 'in', 7: 'ethics', 8: 'an', 9: 'quality', 10: 'man', 11: 'that', 12: 'between', 13: 'other', 14: 'animal', 15: 'on', 16: 'tool', 17: 'knowledge', 18: 'depending', 19: 'and', 20: 'Earth.', 21: 'upon', 22: 'line', 23: 'separation', 24: 'face', 25: 'Education.', 26: 'distinct', 27: 'steps', 28: 'is', 29: 'molding', 30: 'smartest', 31: 'one’s', 32: 'forms', 33: 'comprises', 34: 'creatures,', 35: 'challenges', 36: 'process', 37: 'various', 38: 'role', 39: 'key', 40: 'It', 41: 'readies', 42: 'life.', 43: 'The', 44: 'efficiently.', 45: 'essential', 46: 'life', 47: 'us', 48: 'making', 49: 'culture', 50: 'to', 51: 'of', 52: 'empowers', 53: 'significant', 54: 'Education', 55: 'a', 56: 'plays'}
+2021-09-07 20:53:49,588:INFO:__main__:example.txt
+2021-09-07 20:53:49,588:INFO:__main__:Number of words have prefix to are :3
+2021-09-07 20:53:49,588:INFO:__main__:Number of words have suffix ing are :3
+2021-09-07 20:53:49,588:INFO:__main__:Maximum repeated word is :of
+2021-09-07 20:53:49,588:INFO:__main__:Palindromes are:
+2021-09-07 20:53:49,588:INFO:__main__:a 
+2021-09-07 20:53:49,588:INFO:__main__:a 
+2021-09-07 20:53:49,588:INFO:__main__:a 
+2021-09-07 20:53:49,588:INFO:__main__:['line', 'key', 'separation', 'imparts', 'creatures,', 'knowledge', 'ethics', 'forms', 'to', 'more', 'one’s', 'The', 'that', 'improve', 'making', 'steps', 'quality', 'a', 'significant', 'is', 'role', 'plays', 'on', 'us', 'life.', 'Earth.', 'between', 'empowers', 'readies', 'other', 'in', 'depending', 'and', 'animal', 'process', 'culture', 'of', 'an', 'life', 'challenges', 'face', 'efficiently.', 'society.', 'Education.', 'Education', 'distinct', 'man', 'smartest', 'It', 'the', 'essential', 'tool', 'molding', 'various', 'comprises', 'upon']
+2021-09-07 20:53:49,588:INFO:__main__:resultant dictionary is :{1: 'line', 2: 'key', 3: 'separation', 4: 'imparts', 5: 'creatures,', 6: 'knowledge', 7: 'ethics', 8: 'forms', 9: 'to', 10: 'more', 11: 'one’s', 12: 'The', 13: 'that', 14: 'improve', 15: 'making', 16: 'steps', 17: 'quality', 18: 'a', 19: 'significant', 20: 'is', 21: 'role', 22: 'plays', 23: 'on', 24: 'us', 25: 'life.', 26: 'Earth.', 27: 'between', 28: 'empowers', 29: 'readies', 30: 'other', 31: 'in', 32: 'depending', 33: 'and', 34: 'animal', 35: 'process', 36: 'culture', 37: 'of', 38: 'an', 39: 'life', 40: 'challenges', 41: 'face', 42: 'efficiently.', 43: 'society.', 44: 'Education.', 45: 'Education', 46: 'distinct', 47: 'man', 48: 'smartest', 49: 'It', 50: 'the', 51: 'essential', 52: 'tool', 53: 'molding', 54: 'various', 55: 'comprises', 56: 'upon'}
+2021-09-07 20:55:37,486:INFO:__main__:example.txt
+2021-09-07 20:55:37,486:INFO:__main__:Number of words have prefix to are :3
+2021-09-07 20:55:37,486:INFO:__main__:Number of words have suffix ing are :3
+2021-09-07 20:55:37,486:INFO:__main__:Maximum repeated word is :of
+2021-09-07 20:55:37,486:INFO:__main__:Palindromes are:
+2021-09-07 20:55:37,486:INFO:__main__:a 
+2021-09-07 20:55:37,486:INFO:__main__:a 
+2021-09-07 20:55:37,486:INFO:__main__:a 
+2021-09-07 20:55:37,486:INFO:__main__:['culture', 'process', 'tool', 'of', 'significant', 'an', 'one’s', 'quality', 'on', 'knowledge', 'line', 'more', 'life.', 'role', 'other', 'It', 'that', 'is', 'a', 'in', 'separation', 'The', 'animal', 'Education.', 'key', 'forms', 'between', 'challenges', 'smartest', 'Earth.', 'various', 'to', 'ethics', 'making', 'Education', 'creatures,', 'empowers', 'comprises', 'distinct', 'imparts', 'man', 'society.', 'improve', 'steps', 'the', 'upon', 'molding', 'plays', 'readies', 'us', 'essential', 'life', 'efficiently.', 'and', 'face', 'depending']
+2021-09-07 20:55:37,486:INFO:__main__:resultant dictionary is :{1: 'culture', 2: 'process', 3: 'tool', 4: 'of', 5: 'significant', 6: 'an', 7: 'one’s', 8: 'quality', 9: 'on', 10: 'knowledge', 11: 'line', 12: 'more', 13: 'life.', 14: 'role', 15: 'other', 16: 'It', 17: 'that', 18: 'is', 19: 'a', 20: 'in', 21: 'separation', 22: 'The', 23: 'animal', 24: 'Education.', 25: 'key', 26: 'forms', 27: 'between', 28: 'challenges', 29: 'smartest', 30: 'Earth.', 31: 'various', 32: 'to', 33: 'ethics', 34: 'making', 35: 'Education', 36: 'creatures,', 37: 'empowers', 38: 'comprises', 39: 'distinct', 40: 'imparts', 41: 'man', 42: 'society.', 43: 'improve', 44: 'steps', 45: 'the', 46: 'upon', 47: 'molding', 48: 'plays', 49: 'readies', 50: 'us', 51: 'essential', 52: 'life', 53: 'efficiently.', 54: 'and', 55: 'face', 56: 'depending'}

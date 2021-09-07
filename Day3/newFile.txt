@@ -1,0 +1,19 @@
+dctn s n ssntl tl tht mprts knwldg t mprv n’s lf.
+Th prcss f dctn cmprss vrs stps dpndng pn th qlty f dctn.
+dctn s  ky prcss tht plys  sgnfcnt rl n mldng th thcs nd cltr f th scty.
+dctn frms  dstnct ln f sprtn btwn mn nd thr crtrs, mkng mn th smrtst nml n rth.
+t mpwrs nd rds s t fc th chllngs f lf mr ffcntly.
+
+ After Capitalizing 3rd character of every word is :
+
+ After Capitalizing 5th word is :
+
+ After replacing space with hypen is :
+Education-is-an-essential-tool-that-imparts-knowledge-to-improve-one’s-life.
+The-process-of-Education-comprises-various-steps-depending-upon-the-quality-of-Education.
+Education-is-a-key-process-that-plays-a-significant-role-in-molding-the-ethics-and-culture-of-the-society.
+Education-forms-a-distinct-line-of-separation-between-man-and-other-creatures,-making-man-the-smartest-animal-on-Earth.
+It-empowers-and-readies-us-to-face-the-challenges-of-life-more-efficiently.
+
+ After replacing new line with semicolon is :
+Education is an essential tool that imparts knowledge to improve one’s life.;The process of Education comprises various steps depending upon the quality of Education.;Education is a key process that plays a significant role in molding the ethics and culture of the society.;Education forms a distinct line of separation between man and other creatures, making man the smartest animal on Earth.;It empowers and readies us to face the challenges of life more efficiently.;
