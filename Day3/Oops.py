@@ -82,7 +82,7 @@ class Child(Parent):
 
     try:
         def writeintonewfile(self,filename):
-            newFile = str(uuid.uuid4())+".txt"
+            new_name = str(uuid.uuid4())+".txt"
             words = []
             with open(self.filename, 'r') as f:
                 contents=f.read()
@@ -90,7 +90,7 @@ class Child(Parent):
                     for word in line.split():
                         words.append(word)
             spliter = re.split('a|e|i|o|u|A|E|I|O|U', contents)
-            newfile = open(newFile, 'w')
+            newfile = open(new_name, 'w')
             newfile.writelines(spliter)
             newfile.write("\n After Capitalizing 3rd character of every word is :\n")
             for x in words:
