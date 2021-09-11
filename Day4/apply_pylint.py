@@ -1,4 +1,4 @@
-""" Example for Object Oriented Programming"""
+""" After Applying changes as per Pylint and got 9.71/10 """
 import sys
 import logging
 import re
